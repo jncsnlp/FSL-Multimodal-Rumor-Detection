@@ -1,0 +1,1 @@
+python main_multitask.py --shot=5 --gru_type=gru_bi_mult --gru_num_layer=2 --droptype=1 --droprate=0.3 --dataset=weibo --topic=3 --split_number=0 --ph=0

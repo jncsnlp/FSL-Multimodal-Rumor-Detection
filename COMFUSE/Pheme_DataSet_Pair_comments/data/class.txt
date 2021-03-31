@@ -1,0 +1,10 @@
+ottawashooting-rumor
+ottawashooting-nonrumor
+sydneysiege-rumor
+sydneysiege-nonrumor
+ferguson-rumor
+ferguson-nonrumor
+charliehebdo-rumor
+charliehebdo-nonrumor
+germanwings-rumor
+germanwings-nonrumor
